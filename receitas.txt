@@ -1,0 +1,4 @@
+ Nome da receita: Batata 
+ Ingredientes: Batata e água 
+ Modo de Preparo: Cozinha a batata 
+ ******************************************
